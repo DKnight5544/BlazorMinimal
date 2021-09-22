@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Components;
 
-namespace BlazorMinimal
+namespace BlazorMinimal.Pages
 {
     public class IndexBase : LayoutComponentBase
     {
